@@ -25,7 +25,7 @@
     "create-point-cb": "^1.0.0",
     "dom-mousemove-dispatcher": "^1.0.1",
     "dom-plane": "^1.0.1",
-    "dom-set": "^1.0.1",
+    "dom-set": "aidewoode/dom_set",
     "type-func": "^1.0.1"
   },
   "devDependencies": {
